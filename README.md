@@ -5,7 +5,7 @@ My name is Yalın, I am currently a student in Yeditepe University in Turkey. I 
 ### Topics I have mainly focused on:
 * Back-end Development with various languages, mostly C# and Java
 * Object-Oriented Programming
-
+*.NET Web based applications (Model-View-Controller)
 
 ### Topics I have played around with:
 * Game Development with Unity (C#)
