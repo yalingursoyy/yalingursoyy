@@ -1,5 +1,5 @@
 
-## Hi there,
+### Hi there,
 My name is Yalın, I am currently a student in Yeditepe University in Turkey. I love experimenting with different topics in development and engineering. I post some of my projects and experiments here.
 
 ### Topics I have mainly focused on:
